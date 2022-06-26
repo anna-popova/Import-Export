@@ -1,0 +1,23 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "[Ссылка на задание](https://github.com/netology-code/ajs-homeworks/tree/ajs8/modules)",
+  "main": "app.js",
+  "scripts": {
+	 "serve": "http-server",
+	 "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+	 "type": "git",
+	 "url": "git+https://github.com/anna-popova/Import-Export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+	 "url": "https://github.com/anna-popova/Import-Export/issues"
+  },
+  "homepage": "https://github.com/anna-popova/Import-Export#readme",
+  "devDependencies": {
+	 "http-server": "^14.1.1"
+  }
+}
