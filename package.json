@@ -2,9 +2,9 @@
   "name": "import-export",
   "version": "1.0.0",
   "description": "[Ссылка на задание](https://github.com/netology-code/ajs-homeworks/tree/ajs8/modules)",
-  "main": "app.js",
+  "main": "./app.js",
   "scripts": {
-	 "serve": "http-server",
+	 "serve": "http-server src",
 	 "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
